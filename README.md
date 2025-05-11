@@ -77,7 +77,7 @@ jupyter notebook test.ipynb
 
 ## 🧾 Dataset
 
-- Source: Preprocessed gesture image dataset from [ComputerVision.Zone](https://www.computervision.zone/projects)  
+- Source: Preprocessed gesture image dataset from [Hand Gestures Dataset](https://doi.org/10.6084/m9.figshare.24449197.v1)  
 - Size: 2400+ labeled images across 6 gesture classes  
 
 ---
