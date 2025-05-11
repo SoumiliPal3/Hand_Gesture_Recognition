@@ -90,7 +90,7 @@ Make sure to follow the existing code style and include tests for any new featur
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/SoumiliPal3//blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/SoumiliPal3/Hand_Gesture_Recognition/blob/main/LICENSE) file for more details.
 
 ## Contact
 For any questions or inquiries, please reach out to Soumili Pal at [sou.enquiry@gmail.com](#sou.enquiry@gmail.com) .
